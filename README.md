@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Nowadays, most interested on AR and VR
+- Nowadays, most interested in AR and VR
 - 🔭 I’m currently working on ... AOAS / Software Maestro 11th
 - 🌱 I’m currently learning ... Swift & Deep learning
 <!--
