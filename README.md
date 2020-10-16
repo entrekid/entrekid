@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - Nowadays, most interested on AR and VR
 - 🔭 I’m currently working on ... AOAS / Software Maestro 11th
 - 🌱 I’m currently learning ... Swift & Deep learning
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=entrekid)](https://github.com/anuraghazra/github-readme-stats)
+
+겸손과 성실 
