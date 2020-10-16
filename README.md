@@ -16,4 +16,3 @@
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=entrekid)](https://github.com/anuraghazra/github-readme-stats)
 
-겸손과 성실 
