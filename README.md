@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- Nowadays, most interested in AR and VR
-- 🔭 I’m currently working on ... AOAS / Software Maestro 11th
+- Nowadays, most interested in E-commerce industry.
+- 🔭 I’m currently working on SPONTEQUAD
+- Previously, AOAS / Software Maestro 11th
 - 🌱 I’m currently learning ... Swift & Deep learning
 ## Repository 정리 중입니다(2020. 11 ~)
 <!--
