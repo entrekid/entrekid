@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Nowadays, most interested in E-commerce industry.
+- Nowadays, most interested in E-commerce.
 - 🔭 I’m currently working on SPONTEQUAD
 - Previously, AOAS / Software Maestro 11th
 - 🌱 I’m currently learning ... Swift & Deep learning
